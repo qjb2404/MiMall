@@ -1,11 +1,11 @@
 <template>
   <div>
-    index
+    order-comfirm
     
   </div>
 </template>
 <script>
   export default {
-      name:'index'
+      name:'order-comfirm'
   }
 </script>
